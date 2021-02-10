@@ -1,9 +1,9 @@
 ## Welcome to my Page
   
-<button type="about.html" onclick="alert('You pressed the button!')">About me!</button> <button type="button" onclick="alert('You pressed the button!')">Publications </button>
+<button type="about.html" onclick="alert('You pressed the button!')">About me!</button> <button type="button" onclick="alert('You pressed the button!')">Publications </button>  <button type="about.html" onclick="alert('You pressed the button!')">Projects</button>
 
 <form action="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html">
-    <input type="about" value="Go to Google" />
+    <input type="testtt" value="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html" />
 </form>
 
 
