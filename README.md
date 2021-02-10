@@ -1,6 +1,10 @@
 ## Welcome to my Page
   
-<button type="button" onclick="alert('You pressed the button!')">About me!</button> <button type="button" onclick="alert('You pressed the button!')">Publications </button>
+<button type="about.html" onclick="alert('You pressed the button!')">About me!</button> <button type="button" onclick="alert('You pressed the button!')">Publications </button>
+
+<form action="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html">
+    <input type="about" value="Go to Google" />
+</form>
 
 
 <img src="nahid.png" alt="my photo" style="height: 200px; width: 200px">
