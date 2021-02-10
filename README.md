@@ -2,6 +2,8 @@
   
 <button type="about.html" onclick="alert('You pressed the button!')">About me!</button> <button type="button" onclick="alert('You pressed the button!')">Publications </button>  <button type="about.html" onclick="alert('You pressed the button!')">Projects</button>
 
+<input type=button onClick='about.html' value='click here'>
+
 <form action="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html">
     <input type="testtt" value="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html" />
 </form>
