@@ -2,7 +2,7 @@
 
 
 
-<p align=right>I am a first-year graduate student at the University of California at Santa Cruz, majoring in Computer Engineering. My research area relies on a medical imaging instrument PET scanner, producing vast amounts of raw data that must be transformed into images for clinicians’ interpretation. This process, known as image reconstruction, can be enhanced and improved with modern computational techniques and machine learning. My goal is to utilize state-of-the-art in deep learning to enhance the system’s sensitivity and quality of images.</p>
+<p align=center>I am a first-year graduate student at the University of California at Santa Cruz, majoring in Computer Engineering. My research area relies on a medical imaging instrument PET scanner, producing vast amounts of raw data that must be transformed into images for clinicians’ interpretation. This process, known as image reconstruction, can be enhanced and improved with modern computational techniques and machine learning. My goal is to utilize state-of-the-art in deep learning to enhance the system’s sensitivity and quality of images.</p>
 
 
 # Header 1
