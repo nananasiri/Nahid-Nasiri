@@ -4,11 +4,10 @@ You can use the [editor on GitHub](https://github.com/nananasiri/test/edit/main/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```About me
+```
 I am a first-year graduate student at the University of California at Santa Cruz, majoring in Computer Engineering. My research area relies on a medical imaging instrument PET scanner, producing vast amounts of raw data that must be transformed into images for clinicians’ interpretation. This process, known as image reconstruction, can be enhanced and improved with modern computational techniques and machine learning. My goal is to utilize state-of-the-art in deep learning to enhance the system’s sensitivity and quality of images.
 
 Syntax highlighted code block
