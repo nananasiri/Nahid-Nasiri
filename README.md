@@ -2,7 +2,7 @@
   
 <button type="about.html" onclick="alert('You pressed the button!')">About me!</button> <button type="button" onclick="alert('You pressed the button!')">Publications </button>  <button type="about.html" onclick="alert('You pressed the button!')">Projects</button>
 
-<input type=button onClick= <a href="https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link">Continue</a> value='My_Resume'>
+<a href="https://github.com/nananasiri/Nahid-Nasiri/blob/main/Nahid_Nasiri_CV.pdf">MyCV</a>
 
 <form action="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html">
     <input type="testtt" value="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html" />
