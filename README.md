@@ -2,13 +2,14 @@
   
 <button type="about.html" onclick="alert('You pressed the button!')">About</button> 
 <button type="button" onclick=<a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">>CV </a></button> 
+
 <button type="about.html" onclick="alert('You pressed the button!')">Projects</button>
 
 <a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">MyCV</a>
 <a href="https://nananasiri.github.io/Nahid-Nasiri/about.html">About</a>
 
-<form action="https://www.google.com">
-    <input type="test" value="serach here" />
+<form action="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">
+    <button type="about.html" onclick="alert('You pressed the button!')">test</button> 
 </form>
 
 
