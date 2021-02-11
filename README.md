@@ -9,7 +9,7 @@
 <a href="https://nananasiri.github.io/Nahid-Nasiri/about.html">About</a>
 
 <form action="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">
-    <button type="about.html" onclick="alert('You pressed the button!')">test</button> 
+    <button type="about.html">test</button> 
 </form>
 
 
