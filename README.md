@@ -6,7 +6,7 @@
 <a href="https://nananasiri.github.io/Nahid-Nasiri/about.html">MyCV</a>
 
 <form action="https://www.google.com">
-    <input type="testtt" value="https://www.google.com" />
+    <input type="test" value="serach here" />
 </form>
 
 
