@@ -2,7 +2,7 @@
   
 <button type="about.html" onclick="alert('You pressed the button!')">About me!</button> <button type="button" onclick="alert('You pressed the button!')">Publications </button>  <button type="about.html" onclick="alert('You pressed the button!')">Projects</button>
 
-<a href="https://github.com/nananasiri/Nahid-Nasiri/blob/main/Nahid_Nasiri_CV.pdf">MyCV</a>
+<a href="https://github.com/nananasiri/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">MyCV</a>
 
 <form action="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html">
     <input type="testtt" value="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html" />
