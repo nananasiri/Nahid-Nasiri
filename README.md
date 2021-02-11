@@ -1,6 +1,8 @@
 ## Welcome to my Page
   
-<button type="about.html" onclick="alert('You pressed the button!')">About me!</button> <button type="button" onclick="alert('You pressed the button!')">Publications </button>  <button type="about.html" onclick="alert('You pressed the button!')">Projects</button>
+<button type="about.html" onclick="alert('You pressed the button!')">About</button> 
+<button type="button" onclick=<a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">MyCV</a>>CV </button> 
+<button type="about.html" onclick="alert('You pressed the button!')">Projects</button>
 
 <a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">MyCV</a>
 <a href="https://nananasiri.github.io/Nahid-Nasiri/about.html">About</a>
