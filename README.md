@@ -9,7 +9,7 @@
 <a href="https://nananasiri.github.io/Nahid-Nasiri/about.html">About</a>
 
 <form action="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">
-    <button type="button">CV</button> 
+    <button type="button" onclick= "Directed to my CV">CV</button> 
 </form>
 
 
