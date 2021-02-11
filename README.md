@@ -2,7 +2,7 @@
 <!-- Link Sample-->
 <!-- <a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">MyCV</a> -->
 
-<input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf'" type="button" value="CV" />        <input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/about.html'" type="button" value="about" />       <input class="MyButton" onclick="window.location.href='https://scholar.google.com.tr/citations?user=NeInNdQAAAAJ&hl=en&oi=ao'" type="button" value="Publications"/>
+<input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf'" type="button" value="CV" />        <input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/about.html'" type="button" value="about" />       <!--<input class="MyButton" onclick="window.location.href='https://scholar.google.com.tr/citations?user=NeInNdQAAAAJ&hl=en&oi=ao'" type="button" value="Publications"/>  -->
 
 
 <img src="profile.png" alt="my photo" style="height: 200px; width: 200px">
