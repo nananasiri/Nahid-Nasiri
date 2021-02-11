@@ -12,6 +12,10 @@
     <button type="button" onclick= "Directed to my CV">CV</button> 
 </form>
 
+<form>
+<input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf'" type="button" value="Resume" />
+</form>
+
 
 <img src="nahid.png" alt="my photo" style="height: 200px; width: 200px">
 
