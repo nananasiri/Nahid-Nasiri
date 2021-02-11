@@ -1,19 +1,17 @@
 ## Welcome to my Page
-  
-<button type="about.html" onclick="alert('You pressed the button!')">About</button> 
-<button type="button" onclick=<a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">>CV </a></button> 
+<!-- Link Sample-->
+<!-- <a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">MyCV</a> -->
 
-<button type="about.html" onclick="alert('You pressed the button!')">Projects</button>
-
-<a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">MyCV</a>
-<a href="https://nananasiri.github.io/Nahid-Nasiri/about.html">About</a>
-
-<form action="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">
-    <button type="button" onclick= "Directed to my CV">CV</button> 
+<form>
+<input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf'" type="button" value="CV" />
 </form>
 
 <form>
-<input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf'" type="button" value="Resume" />
+<input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/about.html'" type="button" value="about" />
+</form>
+
+<form>
+<input class="MyButton" onclick="window.location.href='https://scholar.google.com.tr/citations?user=NeInNdQAAAAJ&hl=en&oi=ao'" type="button" value="Publications" />
 </form>
 
 
@@ -21,6 +19,7 @@
 
 <p align=left> I am a first-year graduate student at the University of California at Santa Cruz, majoring in Computer Engineering. My research area relies on a medical imaging instrument PET scanner, producing vast amounts of raw data that must be transformed into images for clinicians’ interpretation. This process, known as image reconstruction, can be enhanced and improved with modern computational techniques and machine learning. My goal is to utilize state-of-the-art in deep learning to enhance the system’s sensitivity and quality of images.</p>
 
+```
 
 # Header 1
 ## Header 2
@@ -35,7 +34,7 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
