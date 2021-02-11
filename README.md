@@ -4,8 +4,8 @@
 
 <a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">MyCV</a>
 
-<form action="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html">
-    <input type="testtt" value="https://github.com/nananasiri/Nahid-Nasiri/blob/main/about.html" />
+<form action="https://www.google.com">
+    <input type="testtt" value="https://www.google.com" />
 </form>
 
 
