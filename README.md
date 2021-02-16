@@ -2,10 +2,10 @@
 <!-- Link Sample-->
 <!-- <a href="https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf">MyCV</a> -->
 
-<input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf'" type="button" value="CV" />       <!-- <input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/about.html'" type="button" value="about" />  -->     <input class="MyButton" onclick="window.location.href='https://scholar.google.com.tr/citations?user=NeInNdQAAAAJ&hl=en&oi=ao'" type="button" value="Publications"/> <input class="MyButton" onclick="window.location.href='https://www.linkedin.com/feed/'" type="button" value="Linkdin"/> <input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/about.html'" type="button" value="events" /> 
+<input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf'" type="button" value="CV" />       <!-- <input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/about.html'" type="button" value="about" />  -->     <input class="MyButton" onclick="window.location.href='https://scholar.google.com.tr/citations?user=NeInNdQAAAAJ&hl=en&oi=ao'" type="button" value="google scholar"/> <input class="MyButton" onclick="window.location.href='https://www.linkedin.com/feed/'" type="button" value="Linkdin"/> <input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/about.html'" type="button" value="events" /> 
 
 
-<img src="IMG_5982.JPG" alt="my photo" style="height: 200px; width: 400px"> 
+<img src="IMG_5982.JPG" alt="my photo" style="height: 250px; width: 500px"> 
 
 <h1>About Me</h1>
 
