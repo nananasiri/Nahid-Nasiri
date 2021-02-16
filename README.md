@@ -5,7 +5,7 @@
 <input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/Nahid_Nasiri_CV.pdf'" type="button" value="CV" />        <input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/about.html'" type="button" value="about" />       <!--<input class="MyButton" onclick="window.location.href='https://scholar.google.com.tr/citations?user=NeInNdQAAAAJ&hl=en&oi=ao'" type="button" value="Publications"/>  --> <input class="MyButton" onclick="window.location.href='https://nananasiri.github.io/Nahid-Nasiri/about.html'" type="button" value="events" /> 
 
 
-<img src="profile.png" alt="my photo" style="height: 200px; width: 250px"> <img src="profile.png" alt="my photo" style="height: 200px; width: 250px">
+<img src="profile.png" alt="my photo" style="height: 200px; width: 230px"> <img src="profile.png" alt="my photo" style="height: 200px; width: 230px">
 
 <h1>Welcome to my webpage!</h1>
 
@@ -14,7 +14,11 @@
 <h1>News and Updates</h1>
 <h3>News and Updates</h3>
 <img src="profile.png" alt="my photo" style="height: 200px; width: 250px">
-<p align=left> Intra-detector scatters (IRS) and Inter-detector scatters (IDS) are events that often happen in positron emission tomography (PET) due to the Compton scattering of an annihilation photon inside one detector block and also from one detector block to another. One challenge in PET system based on Cadmium zinc telluride (CZT) detectors is the high mass attenuation coefficient for Compton scattering at 511 keV that causes a considerable fraction of Multiple Interaction Photon Events (MIPEs). Besides, in a cross strip CZT detector, there is more ambiguity in pairing anode with its corresponding cathode in MIPEs in IRS. This study utilizes state-of-the-art deep learning to identify target sequences in cross-strip CZT detectors correctly. It is promising to improve the system's sensitivity by identifying true line-of-responses (LOR)s out of different possible LORs from IRS events, IDS events and Intra-detector ambiguity usually discarded. </p>
+<p align=left> Intra-detector scatters (IRS) and Inter-detector scatters (IDS) are events that often happen in positron emission tomography (PET) due to the Compton scattering of an annihilation photon inside one detector block and also from one detector block to another. One challenge in PET system based on Cadmium zinc telluride (CZT) detectors is the high mass attenuation coefficient for Compton scattering at 511 keV that causes a considerable fraction of Multiple Interaction Photon Events (MIPEs). Besides, in a cross strip CZT detector, there is more ambiguity in pairing anode with its corresponding cathode in MIPEs in IRS. This study utilizes state-of-the-art deep learning to identify target sequences in cross-strip CZT detectors correctly. It is promising to improve the system's sensitivity by identifying true line-of-responses (LOR)s out of different possible LORs from IRS events, IDS events and Intra-detector ambiguity usually discarded. 
+Click here to access the paper:
+  <input class="MyButton" onclick="window.location.href='https://www.researchgate.net/publication/349321640_A_deep_learning_approach_to_correctly_identify_the_sequence_of_coincidences_in_cross-strip_CZT_detectors'" type="button" value="Publication"/>
+  
+</p>
 
 
 
