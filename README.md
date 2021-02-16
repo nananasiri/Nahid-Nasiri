@@ -13,8 +13,8 @@
 
 <h1>Publications</h1>
 <h5>A deep learning approach to correctly identify the sequence of coincidences in cross-strip CZT detectors</h5>
-<img src="ambiguity.png" alt="my photo" style="height: 200px; width: 400px">
-<img src="ambiguity2.png" alt="my photo" style="height: 200px; width: 400px">
+<img src="ambiguity.png" alt="my photo" style="height: 100px; width: 200px">
+<img src="ambiguity2.png" alt="my photo" style="height: 100px; width: 200px">
 
 <p align=left> Intra-detector scatters (IRS) and Inter-detector scatters (IDS) are events that often happen in positron emission tomography (PET) due to the Compton scattering of an annihilation photon inside one detector block and also from one detector block to another. One challenge in PET system based on Cadmium zinc telluride (CZT) detectors is the high mass attenuation coefficient for Compton scattering at 511 keV that causes a considerable fraction of Multiple Interaction Photon Events (MIPEs). Besides, in a cross strip CZT detector, there is more ambiguity in pairing anode with its corresponding cathode in MIPEs in IRS. This study utilizes state-of-the-art deep learning to identify target sequences in cross-strip CZT detectors correctly. It is promising to improve the system's sensitivity by identifying true line-of-responses (LOR)s out of different possible LORs from IRS events, IDS events and Intra-detector ambiguity usually discarded. 
 <input class="MyButton" onclick="window.location.href='https://www.researchgate.net/publication/349321640_A_deep_learning_approach_to_correctly_identify_the_sequence_of_coincidences_in_cross-strip_CZT_detectors'" type="button" value="Link to the publication"/> </p>
