@@ -11,11 +11,9 @@
 
 <p align=left> I am a Ph.D. candidate at the University of California at Santa Cruz, majoring in Computer Engineering. My research relies on machine learning in medical applications, image processing, sequential data processing, and sensor development. 
   
-I conducted research on a medical imaging instrument PET scanner, producing vast amounts of raw data that must be transformed into images for clinicians’ interpretation. This process, known as image reconstruction, can be enhanced and improved with modern computational techniques and machine learning. I utilize state-of-the-art deep learning to enhance the system’s sensitivity and quality of images. </p>
+I conducted research on a medical imaging instrument PET scanner, producing vast amounts of raw data that must be transformed into images for clinicians’ interpretation. This process, known as image reconstruction, can be enhanced and improved with modern computational techniques and machine learning. I utilize state-of-the-art deep learning to enhance the system’s sensitivity and quality of images.</p>
 
 <p align=left> I also advanced the technology of soft tangible devices for tactile interaction in people with ADHD. I developed machine learning methods for extracting cognitive and affective features from touch and demonstrated that the tactile content of fidgeting predicts cognitive and affective states for individuals with ADHD. </p>
-
-</p>
 <h1>Publications</h1>
 <h5>A deep learning approach to correctly identify the sequence of coincidences in cross-strip CZT detectors</h5>
 <img src="ambiguity.png" alt="my photo" style="height: 100px; width: 200px">
